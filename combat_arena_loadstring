@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevEclipse1/oblivion_scripts/refs/heads/main/combat_arena", true))()
