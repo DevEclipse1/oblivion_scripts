@@ -1,3 +1,2 @@
 _G.oblivion_key = "YOUR_KEY" -- PUT THE KEY IT GENERATED BETWEEN THE " "
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DevEclipse1/oblivion_scripts/refs/heads/main/operation_siege_free", true))()
-aaa
